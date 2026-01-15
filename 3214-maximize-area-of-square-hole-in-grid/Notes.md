@@ -1,0 +1,1 @@
+<h2>maximize-area-of-square-hole-in-grid Notes</h2><hr>[ Time taken: 49 m 26 s ]
